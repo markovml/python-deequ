@@ -1,4 +1,4 @@
-pyspark==2.4.7
+pyspark==3.2.2
 numpy
 pytest
 pandas

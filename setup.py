@@ -23,8 +23,8 @@ def setup_package():
             "License :: OSI Approved :: Apache Software License"
         ],
         install_requires=['pandas'],
-        setup_requires=['pyspark==2.4.7', 'pytest-runner', 'pandas'],
-        tests_require=['pyspark==2.4.7', 'pytest', 'pandas']
+        setup_requires=['pyspark==3.2.2', 'pytest-runner', 'pandas'],
+        tests_require=['pyspark==3.2.2', 'pytest', 'pandas']
 
     )
 
